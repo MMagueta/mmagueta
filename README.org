@@ -1,0 +1,13 @@
+#+TITLE: About me
+
+I am a F# programmer that values beauty and truth as paramount.
+
+**** What I do (and enjoy)
+- F# and other ML dialects
+- Lisp
+- Relational Databases
+
+**** You can find me at
+- 🛖 [[https://sr.ht/~mmagueta/][Source Hut]]
+- 🌐 [[www.marcosmagueta.com][Blog]]
+- 👤 [[https://www.linkedin.com/in/mmagueta/][LinkedIn]]
