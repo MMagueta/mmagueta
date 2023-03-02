@@ -1,6 +1,6 @@
 #+TITLE: About me
 
-I am a F# programmer that values beauty and truth as paramount.
+I am a F# programmer that values beauty and truth as paramount. Also, recently I've been training to become a SQL wizard.
 
 **** What I do (and enjoy)
 - F# and other ML dialects
