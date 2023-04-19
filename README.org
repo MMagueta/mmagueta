@@ -1,13 +1,13 @@
 #+TITLE: About me
 
-I am a F# programmer that values beauty and truth as paramount. Also, recently I've been training to become a SQL wizard.
+I am an F# programmer that values beauty and truth as paramount. Also, recently I've been training to become a SQL wizard.
 
 **** What I do (and enjoy)
 - F# and other ML dialects
-- Lisp
-- Relational Databases
+- Lisp because it was the future they took from us
+- Databases
 
 **** You can find me at
 - 🛖 [[https://sr.ht/~mmagueta/][Source Hut]]
-- 🌐 [[www.marcosmagueta.com][Blog]]
+- 🌐 [[http://marcosmagueta.com][Blog WIP]]
 - 👤 [[https://www.linkedin.com/in/mmagueta/][LinkedIn]]
