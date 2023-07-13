@@ -6,6 +6,8 @@ I am an F# programmer that values beauty and truth as paramount. Also, recently 
 - F# and other ML dialects
 - Lisp because it was the future they took from us
 - Databases
+- Classical Philosophy
+- Grammar
 
 **** You can find me at
 - 🛖 [[https://sr.ht/~mmagueta/][Source Hut]]
